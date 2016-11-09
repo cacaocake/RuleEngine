@@ -1,4 +1,4 @@
-package com.ebaykorea.kyekang
+package com.ebaykorea.kyekang.sample
 
 import scala.collection.mutable.ArrayBuffer
 
